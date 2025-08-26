@@ -1,5 +1,4 @@
 
-````markdown
 # 📲 OTP Listener Flutter App
 
 A **Flutter application** that connects to a WebSocket server, listens for OTP events, and automatically sends SMS messages. Fully configurable with dynamic message templates, server URL, and recipient phone number.
@@ -141,10 +140,4 @@ Make sure the following permissions are added in `AndroidManifest.xml`:
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ```
-
----
-
-If you want, I can **make an even more visually appealing version with badges, GIF animation of usage, and a table for settings**. This is usually more eye-catching for GitHub.  
-
-Do you want me to do that next?
 ```
