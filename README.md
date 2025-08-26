@@ -16,6 +16,7 @@ A **Flutter application** that connects to a WebSocket server, listens for OTP e
 
 ---
 
+
 ## 📷 Screenshots
 
 <p align="center">
@@ -132,6 +133,3 @@ Make sure the following permissions are added in `AndroidManifest.xml`:
 
 * `{otp}` in the message template is replaced dynamically with the actual OTP.
 * Logs display connection status, events, and SMS sending results.
-
-
-```
