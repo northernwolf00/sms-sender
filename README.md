@@ -44,7 +44,7 @@ A **Flutter application** that connects to a WebSocket server, listens for OTP e
 
 ```bash
 git clone https://github.com/northernwolf00/sms-sender.git
-cd otp_listener_flutter
+cd sms-sender
 ````
 
 2. Install dependencies:
@@ -133,16 +133,3 @@ Make sure the following permissions are added in `AndroidManifest.xml`:
 
 * `{otp}` in the message template is replaced dynamically with the actual OTP.
 * Logs display connection status, events, and SMS sending results.
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-
-
-
-
-```
