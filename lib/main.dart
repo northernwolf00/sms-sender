@@ -30,8 +30,8 @@ class OTPSocketScreen extends StatefulWidget {
 }
 
 class _OTPSocketScreenState extends State<OTPSocketScreen> {
-  String serverUrl = "http://172.16.18.114:3000";
-  String myPhoneNumber = "+99364500768";
+  String serverUrl = "http://172.....:3000";
+  String myPhoneNumber = "+99364123456";
   String messageTemplate = "App otp code : {otp}. Verify otp code!";
   String eventName = "send-otp";
 
@@ -219,7 +219,7 @@ class _OTPSocketScreenState extends State<OTPSocketScreen> {
                         decoration: const InputDecoration(
                           labelText: 'Server URL',
                           border: OutlineInputBorder(),
-                          hintText: 'http://172.16.18.114:3000',
+                          hintText: 'http://172.......:3000',
                         ),
                       ),
                       const SizedBox(height: 12),
@@ -228,7 +228,7 @@ class _OTPSocketScreenState extends State<OTPSocketScreen> {
                         decoration: const InputDecoration(
                           labelText: 'Your Phone Number',
                           border: OutlineInputBorder(),
-                          hintText: '+993654321',
+                          hintText: '+99365654321',
                         ),
                         keyboardType: TextInputType.phone,
                       ),
