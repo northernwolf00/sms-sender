@@ -20,9 +20,9 @@ A **Flutter application** that connects to a WebSocket server, listens for OTP e
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/photo1.jpeg" alt="" width="45%"/>
+  <img src="assets/screenshots/photo1.jpg" alt="" width="45%"/>
   &nbsp;&nbsp;
-  <img src="assets/screenshots/photo2.jpeg" alt=" " width="45%"/>
+  <img src="assets/screenshots/photo2.jpg" alt=" " width="45%"/>
 </p>
 
 
