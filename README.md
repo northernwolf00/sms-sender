@@ -142,9 +142,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ```
 
----
 
-If you want, I can **make an even more visually appealing version with badges, GIF animation of usage, and a table for settings**. This is usually more eye-catching for GitHub.  
 
-Do you want me to do that next?
+
 ```
