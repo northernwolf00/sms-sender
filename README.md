@@ -1,5 +1,4 @@
 
-````markdown
 # 📲 OTP Listener Flutter App
 
 A **Flutter application** that connects to a WebSocket server, listens for OTP events, and automatically sends SMS messages. Fully configurable with dynamic message templates, server URL, and recipient phone number.
@@ -16,6 +15,7 @@ A **Flutter application** that connects to a WebSocket server, listens for OTP e
 - **Real-time Logs:** Monitor connection and SMS events directly in the app.
 
 ---
+
 
 ## 📷 Screenshots
 
