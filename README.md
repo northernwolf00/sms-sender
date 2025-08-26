@@ -43,7 +43,7 @@ A **Flutter application** that connects to a WebSocket server, listens for OTP e
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/otp_listener_flutter.git
+git clone https://github.com/northernwolf00/sms-sender.git
 cd otp_listener_flutter
 ````
 
