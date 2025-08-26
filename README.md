@@ -1,4 +1,3 @@
-Absolutely! Here’s a polished and visually appealing `README.md` for your OTP Listener app with a section for screenshots. You can later add actual images in the `screenshots/` folder.
 
 ````markdown
 # 📲 OTP Listener Flutter App
@@ -18,10 +17,13 @@ A **Flutter application** that connects to a WebSocket server, listens for OTP e
 
 ---
 
-## 📸 Screenshots
+## 📷 Screenshots
 
-### Settings Screen
-![Settings Screen](screenshots/settings.png)
+<p align="center">
+  <img src="assets/screenshots/photo1.jpeg" alt="" width="45%"/>
+  &nbsp;&nbsp;
+  <img src="assets/screenshots/photo2.jpeg" alt=" " width="45%"/>
+</p>
 
 
 

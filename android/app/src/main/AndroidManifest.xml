@@ -5,7 +5,7 @@
 
 
     <application
-        android:label="sms_sender"
+        android:label="OTP Listener"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
